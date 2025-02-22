@@ -20,7 +20,7 @@ O trabalho deve conter pelo menos duas classes retreinadas para detecção, alé
 
 # Observações
 
-Devido a erros em partes do código do projeto base durante a realização do desafio proposto, foi utilizado o projeto base usado em outro projeto para Detecção e Classificação de objetos com YOLOv4 para ser entregue. No futuro é previsto um estudo mais aprofundado de cada parte do código a fim de alterar e realizar o desafio em questão.
+Devido a erros em partes do código do projeto base durante a realização do desafio proposto, foi utilizado o projeto base usado em outro projeto da DIO para Detecção e Classificação de objetos com YOLOv4 para ser entregue. No futuro é previsto um estudo mais aprofundado de cada parte do código a fim de alterar e realizar o desafio em questão.
 
 O mesmo pode ser encontrado através do link: https://colab.research.google.com/drive/1xdjyBiY75MAVRSjgmiqI7pbRLn58VrbE?usp=sharing.
 
